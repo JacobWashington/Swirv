@@ -1,4 +1,5 @@
 # Swirv
+![Swirv Logo](./assets/images/logo.png)
 
 ## Description
 Swirv is a distributive story-telling platform, where every reader can branch from an author's storyline to spin their own tale.
@@ -14,6 +15,7 @@ Traditionally, an author's greatest responsibility has been to give their reader
 - As a user, I want to create a new episode in a storyline
 - As a user, I want to edit my episodes and storyline
 - As a user, I want to branch from another user's episodes and storylines
+- As a user, I want to offer episodes and storylines to *The Great Attractor*
 
 **Added Features**
 - As a user, I want to create collections of stories to my profile
@@ -22,6 +24,6 @@ Traditionally, an author's greatest responsibility has been to give their reader
 - As a user, I want to comment on episodes
 - As a user, I want to rate episodes, storylines, and authors
 
+## Database Architecture
+![Swirv DB Architecture V1](./assets/images/databaseDiagramV1.png)
 
-
-## Concept Map

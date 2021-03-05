@@ -41,7 +41,7 @@ Traditionally, an author's greatest responsibility has been to give their reader
 
 ## Database Architecture
 
-![Swirv DB Architecture V3](./assets/images/databaseDiagramV3.png)
+![Swirv DB Architecture V4](./assets/images/databaseDiagramV4.png)
 
 **Database Edge-Cases**
 - User1 deletes episode or storyline branched by User2. In this case, User1 will not actually delete the storyline/episode from the database, but will waive ownership of the content. *The Great Attractor* then becomes the owner, granting User1 anonymity without jeopardizing the branch created by User2.

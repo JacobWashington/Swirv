@@ -49,3 +49,4 @@ Traditionally, an author's greatest responsibility has been to give their reader
 ## Future Development
 
 - [ ] Tips: Users can tip an author of episodes they especially enjoyed, or to show appreciation for their favorite storylines
+- [ ] 3rd Party Branching: With a URL, users can branch from 3rd party sources. Our code will then target the URL and scrape relevant content, displaying it with a reference to the source  

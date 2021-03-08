@@ -12,8 +12,8 @@ Traditionally, an author's greatest responsibility has been to give their reader
 
 ### Vocab
 
-**Wormhole**
-: *opens* when a user branches from an existing episode or storyline, creating an *alternate storyline* to the existing
+**Anomaly**
+: created when a user branches from an existing episode or storyline, creating an *alternate storyline* to the existing
 
 **The Great Attractor**
 : a database table designed to allow users to submit stories anonymously, without disturbing another user's ability to branch from that story
